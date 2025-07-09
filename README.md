@@ -59,10 +59,6 @@ I'm a passionate data professional with a flair for solving complex business pro
 
 ---
 
-### 📜 Certifications & Badges
-
-[![AWS Cloud Practitioner](assets/aws-certified-cloud-practitioner.png)](https://www.credly.com/earner/earned/share/7d0f3818-40c1-4429-95c2-a0862755c995)
-<img src="https://img.shields.io/badge/Google_Data_Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 
 
 
