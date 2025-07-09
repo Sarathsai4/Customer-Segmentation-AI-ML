@@ -84,8 +84,6 @@ A user-facing Streamlit app supports:
 ---
 
 ## 🚀 Future Roadmap
-
-- [ ] Deploy Streamlit app to Vercel with live segment lookup
 - [ ] Integrate SHAP-based model explainability
 - [ ] Add product-category-level segmentation
 - [ ] Include session duration & page views in features
