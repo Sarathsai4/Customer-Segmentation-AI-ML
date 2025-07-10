@@ -83,13 +83,6 @@ A user-facing Streamlit app supports:
 
 ---
 
-## 🚀 Future Roadmap
-- [ ] Integrate SHAP-based model explainability
-- [ ] Add product-category-level segmentation
-- [ ] Include session duration & page views in features
-
----
-
 ## ▶️ How to Run
 
 ```bash
@@ -102,3 +95,6 @@ jupyter notebook Customer_Segmentation.ipynb
 # Step 3: Run Web App
 cd app
 streamlit run app.py
+```
+
+
