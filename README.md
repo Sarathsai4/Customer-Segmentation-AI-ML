@@ -1,8 +1,7 @@
 <div align="center">
-  
+
 # 💡 AI-Powered Customer Segmentation with RFM + KMeans + Streamlit
 
-</div>
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-FF9900)
@@ -10,6 +9,11 @@
 ![SHAP](https://img.shields.io/badge/SHAP-Explainer-blueviolet)
 ![PCA](https://img.shields.io/badge/PCA-Dimensionality-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-green)
+
+</div>
+
+
+
 
 ---
 
